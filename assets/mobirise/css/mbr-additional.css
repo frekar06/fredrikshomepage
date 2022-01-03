@@ -1057,51 +1057,67 @@ a {
   text-align: center;
   color: #ffffff;
 }
-.cid-sTpaEVw3vX {
-  background-color: #bed3f9;
+.cid-sTprE1lTzK {
+  background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-sTpaEVw3vX .row {
-  flex-direction: row-reverse;
-}
-.cid-sTpaEVw3vX .container-fluid {
-  padding: 0;
-}
-.cid-sTpaEVw3vX .text-wrapper {
-  padding: 0 4rem;
-}
-@media (max-width: 768px) {
-  .cid-sTpaEVw3vX .text-wrapper {
-    padding: 0 2rem;
+@media (min-width: 992px) {
+  .cid-sTprE1lTzK .text-wrapper {
+    padding: 2rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-sTpaEVw3vX .image-wrapper {
-    margin-bottom: 2rem;
+@media (max-width: 1000px) {
+  .cid-sTprE1lTzK .text-wrapper {
+    padding: 2rem 0;
   }
 }
-.cid-sTpaEVw3vX .image-wrapper img {
+.cid-sTprE1lTzK .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
-@media (min-width: 992px) {
-  .cid-sTpaEVw3vX .text-wrapper {
-    padding: 0 2rem;
-    padding: 0 4rem;
-  }
+.cid-sTprE1lTzK .text-block {
+  color: #565A69;
+  margin-bottom: 50px;
 }
-@media (max-width: 768px) {
-  .cid-sTpaEVw3vX .text-wrapper {
-    margin-bottom: 2rem;
-  }
+.cid-sTprE1lTzK .row.justify-content-between {
+  margin-bottom: 3px;
+  margin: 0;
 }
-.cid-sTpp3RFo88 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #4479d9;
+.cid-sTprE1lTzK .mbr-section-btn {
+  padding-top: 53px;
+  margin: 0px;
 }
-.cid-sTpp3RFo88 .mbr-section-title {
+.cid-sTprE1lTzK .desc {
+  margin-top: 22px;
+  color: #b2b2b2;
+  font-weight: 500;
+}
+.cid-sTprE1lTzK .btn-primary {
+  color: #ffffff !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.cid-sTprE1lTzK .btn-primary:hover {
+  color: #000000 !important;
+  background-color: #e3e3e3 !important;
+  border-color: #e3e3e3;
+}
+.cid-sTprE1lTzK .mbr-section-subtitle {
   color: #ffffff;
-  text-align: left;
+  font-weight: 700;
+  margin-bottom: 2px;
+  text-transform: uppercase;
+}
+.cid-sTprE1lTzK .desc1 {
+  font-weight: 700;
+  color: #ffffff;
+}
+.cid-sTprE1lTzK .desc2 {
+  font-weight: 700;
+  margin-top: 20px;
+  color: #ffffff;
+}
+.cid-sTprE1lTzK .mbr-section-button {
+  margin-top: 25px;
 }
 .cid-sTpbvSvH9m {
   padding-top: 3rem;
